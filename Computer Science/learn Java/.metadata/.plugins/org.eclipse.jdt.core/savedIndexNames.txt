@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+/Users/lizandrofranco/Desktop/Computer Science/learn Java/.metadata/.plugins/org.eclipse.jdt.core
-4258297110.index
-3350300881.index
-828737740.index
